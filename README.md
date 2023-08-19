@@ -20,6 +20,7 @@ This website is a collection of quotes about colors. The quotes are displayed in
 
 #### Demo : 
 Watch the demo video on [YouTube](https://youtu.be/ma3iJpd5Vhk).
+##### Visit Website: https://quote-scroll.netlify.app/
 #### Project 3 : Random Choice Picker
 
 #### Description : 
@@ -30,6 +31,7 @@ To pick a random choice, simply enter the choices in the text box, separated by 
 
 #### Demo : 
 Watch the demo video on [YouTube](https://youtu.be/SkwTeXnnw6g).
+##### Visit Website: https://randomchoicepicker-kvs.netlify.app/
 #### Project 4 : Landing Page
 
 #### Description : 
